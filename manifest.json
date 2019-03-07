@@ -1,0 +1,14 @@
+{
+  "name": "Schlock Plugin",
+  "version": "0.0.1",
+  "description": "Useful bits for mercenaries.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/groups/2372714756/*"],
+      "js": ["facebook_spoilers.js"],
+      "css": ["facebook_spoilers.css"]
+    }
+  ],
+  "manifest_version": 2
+}
+
