@@ -3,6 +3,13 @@ INTRODUCTION
 
 This project is intended to contain a suite of browser plugins to make it easier to appreciate if not the best, the most consistant webcomic on the internet.
 
+BUILD
+-----
+
+Steps to build the project.
+1. Download the code from https://github.com/c7bamford/schlock_plugin.
+2. In chrome://extensions, toggle developer mode in the top right corner.
+3. Click load unpacked and select the directory containing manifest.json.
 
 FEATURES
 --------
